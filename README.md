@@ -1,4 +1,4 @@
-# 🚢 Constraint Satisfaction Problem: Battleship Solitaire Solver
+# 🚢 Battleship Solitaire Solver
 
 ## 📖 Overview
 This project implements a solver for Battleship Solitaire puzzles using **Constraint Satisfaction Problem (CSP)** techniques. Battleship Solitaire is a logic puzzle where you must deduce the location of ships on a grid based on given constraints.
